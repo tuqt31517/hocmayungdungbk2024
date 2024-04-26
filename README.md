@@ -19,3 +19,14 @@ https://colab.research.google.com/
 Ensure that the dataset file is located in the same folder level as the notebook file.
 
 **diabetes.csv**
+
+
+--------------------------------------------------------------------------------------------
+
+COPYRIGHT
+/*
+ * This code is provided under the Apache License for reference and educational purposes only.
+ * It may not be used for commercial purposes in any form without explicit permission.
+ * Copyright [2024] [Research Group - University of Technology Ho Chi Minh City]
+ * Contact: [quoctubk07@gmail.com]
+ */
