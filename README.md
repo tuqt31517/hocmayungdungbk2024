@@ -10,8 +10,7 @@
 PGS. TS Dương Tuấn Anh
 
 **Sinh viên thực hiện:**        
-Trần Quốc Tú
-Huỳnh Thanh Tâm
+Trần Quốc Tú, Huỳnh Thanh Tâm
 
 Run the file in Google Colab:
 https://colab.research.google.com/
